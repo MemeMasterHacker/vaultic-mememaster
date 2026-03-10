@@ -1,0 +1,8 @@
+pyperclip
+curses
+random
+string
+random
+tempfile
+subprocess
+requests
