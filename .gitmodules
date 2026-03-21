@@ -1,0 +1,3 @@
+[submodule "vaultic"]
+	path = vaultic
+	url = https://github.com/divpreeet/vaultic.git
